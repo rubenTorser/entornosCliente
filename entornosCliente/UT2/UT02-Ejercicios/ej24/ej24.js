@@ -9,7 +9,7 @@
 *******************************************/
 
 
-//Dará error porque la variable ya está declarada, lo correcto sería:
+//Dará error porque la variable ya está declarada, lo correcto sería://
 
 let x = 45;
 x = 10;
